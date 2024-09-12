@@ -8,6 +8,6 @@ Complete problems 1,5,6 first.
 
 Then attempt problems 14 and 2.
 
-Write your functions using the naming convention euler[PROBLEMNUMBER]() , e.g euler1()  or euler14()
+Write your functions using the naming convention euler<PROBLEM_NUMBER>() , e.g euler1()  or euler14()
 
 Recursion may be useful here since we havent looked at arrays.
