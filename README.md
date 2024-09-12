@@ -11,3 +11,5 @@ Then attempt problems 14 and 2.
 Write your functions using the naming convention euler<PROBLEM_NUMBER>() , e.g euler1()  or euler14()
 
 Recursion may be useful here since we havent looked at arrays.
+
+Tomorrow after completing some of the problems, we will modify the way we compile/run the code. 
